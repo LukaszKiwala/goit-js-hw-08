@@ -27,4 +27,4 @@ alleryContainerEl.addEventListener('click', event => {
   if (!event.target.classList.contains('gallery__image')) {
     return;
   }
-});
+})
